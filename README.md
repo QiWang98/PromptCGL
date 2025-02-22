@@ -29,4 +29,6 @@ pip install -r requirements.txt
 
 ----
 ## Training and Evaluation
+```
 python main.py --dataset-name=corafull --cgl-method=PromptCGL
+```
