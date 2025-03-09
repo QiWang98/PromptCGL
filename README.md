@@ -23,7 +23,7 @@ conda env create -n promptcgl python=3.10
 
 conda activate promptcgl
 
-#### CUDA 12.3
+#### CUDA 12.2
 conda install pytorch==1.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
 
 git clone https://github.com/QiWang98/PromptCGL.git
