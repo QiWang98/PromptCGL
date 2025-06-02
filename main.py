@@ -126,8 +126,6 @@ def main():
     parser.add_argument('--seed', type=int, default=1024)  # Set the seed for comparison.
     parser.add_argument('--rewrite', action='store_true')
     args = parser.parse_args()
-    if args.dataset_name in ["SIDER", "Tox21"]:
-        args.cls_per_task = 1
 
     seed_everything(args.seed)
     print(args)
