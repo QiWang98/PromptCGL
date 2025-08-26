@@ -25,7 +25,7 @@ torch==1.13.1            # core deep learning framework
 dgl==1.1.3               # graph neural network library
 torch-geometric==2.4.0   # PyG for deploying GNNs
 ogb==1.3.6               # for Arxiv and Products datasets
-dgllife==0.3.2           # molecular property prediction support
+dgllife==0.3.2           # graph datasets support
 progressbar2             # visualization of training progress
 ```
 
