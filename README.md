@@ -6,7 +6,7 @@ Prompt-Driven Continual Graph Learning
 
 ----------
 
-This is the official repository for the paper [_Prompt-Driven Continual Graph Learning_](https://arxiv.org/abs/2502.06327).
+This is the official repository for the paper [Prompt-Driven Continual Graph Learning](https://arxiv.org/abs/2502.06327) (Accepted by [_SCIENCE CHINA Information Sciences_](https://link.springer.com/journal/11432)).
 
 The following figure illustrates the overall PromptCGL framework, which mitigates catastrophic forgetting via hierarchical prompting and personalized prompt generation.
 
